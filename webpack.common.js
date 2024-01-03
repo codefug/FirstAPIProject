@@ -5,7 +5,7 @@ module.exports = {
   entry: { app: "/src/index.js" },
   plugins: [
     new HtmlWebpackPlugin({
-      title: "dramaTodoList",
+      title: "FirstAPIProject",
       template: "./src/index.html",
     }),
   ],
